@@ -47,7 +47,7 @@ div#content {
     width: 45px;
     position: relative;
     display: grid;
-    opacity: 0.6;
+    opacity: 0.8;
     grid-template-columns: 1fr 2fr;
     grid-template-rows: 1fr 2fr;
     border-radius: 50%;
